@@ -53842,4 +53842,4 @@ const stateMappings = [
     }
 ]
 
-export { stateMappings }
+module.exports =  stateMappings 
